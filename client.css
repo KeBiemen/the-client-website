@@ -1,58 +1,45 @@
 * {
     margin: 0%;
     padding: 0%;
-
 }
 
 body {
-
     display: grid;
     font-family: Helvetica;
     font-size: 16px;
 
-
      @media (min-width: 780px) {
-
         section {
             display: grid;
             grid-template-columns: 1fr 1fr;
             gap: 1em;
-
-
         }
 
         article {
             min-width: 25em;
         }
-
     }
 
     @media (min-width: 1280px) {
-
         section {
             display: grid;
             grid-template-columns: 1fr 1fr 1fr;
             gap: 1em;
-
-
         }
 
         article {
             min-width: 30em;
         }
-
     }
-
-
 }
 
-
-
-
 header {
-
     width: 100%;
     background-color: #3F2C4A;
+}
+
+nav {
+    float: right;
 }
 
 h1 {
@@ -60,16 +47,10 @@ h1 {
     margin: 1em;
 }
 
-
 .logo {
     width: 30%;
     padding: 2%;
 }
-
-nav {
-    float: right;
-}
-
 
 form {
     position: relative;
@@ -79,8 +60,7 @@ form {
     width: 80%;
     margin-left: 3em;
     margin-bottom: 5%;
-
-
+}
 
 
     label {
@@ -109,7 +89,7 @@ form {
     }
 
 
-}
+
 
 legend {
   background-color:#de717f;
@@ -117,7 +97,7 @@ legend {
   padding: 10px 6px;
   margin: 3px;
   border:  1px solid;
-   border-color: black;
+  border-color: black;
 
 
 }
