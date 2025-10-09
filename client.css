@@ -83,13 +83,13 @@ label {
 
 /* als de filter aangevinkt is, dan krijgt hij een ander kleur */
 input[type="radio"]:checked+label {
-    border-color: #E28A96;
-    background-color: #e28a9652;
-    color: #E28A96;
+    border-color: #0E3951;
+    background-color: #0E3951;
+    color: #ffffff;
 }
 
 legend {
-    background-color: #de717f;
+    background-color: #a9c0cd;
     color: rgb(4, 3, 3);
     padding: 10px 6px;
     margin: 3px;
