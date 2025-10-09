@@ -21,6 +21,7 @@ De opdracht was het maken van een overzichtspagina voor ideeën te maken met bee
 In het project zie je een overzicht met ideeënkaartjes met daarboven wat filters waar je de kaartjes zou moeten kunnen sorteren. 
 https://kebiemen.github.io/the-client-website/
 
+<img width="2406" height="1166" alt="afbeelding" src="https://github.com/user-attachments/assets/3f927339-3f70-4fd3-b49a-3ca763d10a45" />
 
 
 
@@ -31,7 +32,8 @@ De kaartjes zelf zijn opgebouwd uit articles met daarin  grid, waar de afbeeldin
 <img width="852" height="860" alt="afbeelding" src="https://github.com/user-attachments/assets/63c1b7d2-9574-45b7-88a1-85f88ff669b2" />
 
 De filter functioneert niet, maar is wel klikbaar. 
-<img width="866" height="686" alt="afbeelding" src="https://github.com/user-attachments/assets/6e18f585-e277-4b7f-8414-ae056f7bad3f" />
+<img width="810" height="562" alt="afbeelding" src="https://github.com/user-attachments/assets/f3ed77e9-48a9-4972-b5f4-5f9564983093" />
+
 
 
 ## Licentie
